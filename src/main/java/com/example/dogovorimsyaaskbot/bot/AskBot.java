@@ -33,9 +33,9 @@ public class AskBot extends TelegramLongPollingBot {
 
 
 
-    //final private String BOT_TOKEN = "6788380870:AAEF_wXti4rc0oL_0khheXHIYNLEJvvxRs4"; //тест токен
-    final private String BOT_TOKEN = "6044658382:AAGJv-ahotQYRXKI7QFxo6CD8mHadiXR5rU"; //основной токен
-    final private String BOT_NAME = "Договоримся Бот";
+    //final private String BOT_TOKEN = ""; //тест токен
+    final private String BOT_TOKEN = ""; //основной токен
+    final private String BOT_NAME = "";
     private static final Logger LOG = LoggerFactory.getLogger(AskBot.class);
 
     @Autowired
